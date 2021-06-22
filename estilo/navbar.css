@@ -7,6 +7,15 @@
             outline: 0;
         }
         
+        .item {
+            margin-top: 50px !important;
+            text-decoration: none !important;
+        }
+        
+        .item:nth-child(5) {
+            margin-bottom: 30px;
+        }
+        
         i {
             font-size: 35px;
             color: rgb(75, 75, 75);

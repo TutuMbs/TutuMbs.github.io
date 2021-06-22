@@ -55,11 +55,12 @@ main {
     font-size: 14px;
     padding-bottom: 3px;
     padding-top: 3px;
+    text-decoration: none;
 }
 
 .item-txt h2 {
     font-size: 12px;
-    color: rgb(53, 53, 53);
+    color: rgb(197, 197, 197);
     margin-bottom: 10px;
     word-break: break-all;
 }
